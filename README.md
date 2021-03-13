@@ -1,8 +1,6 @@
-<!--Photo below by Donal Tong from Pexels-->
-![Theater Image](/resources/pexels-donald-tong-109669.png)
-Format: ![Theater Image]
 
-# Kickstarting with Excel
+# Kickstarting with Excel<!--Photo below by Donald Tong from Pexels-->
+<img src="https://github.com/tn64/kickstarter-analysis/blob/main/Resources/pexels-donald-tong-109669.png" width="1000">
 
 ## Overview of Project
 
