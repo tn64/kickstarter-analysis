@@ -53,6 +53,8 @@ The analysis of launch dates by outcome (see chart above) indicates that May and
 
 - What are some limitations of this dataset?
 1. The data set does not include information on marketing plans.
-2. The data set only includes "country" information. Additional, more "regional" data might be helpful for individual campaigns
+2. The data set only includes "country" information. Additional "regional" data might be helpful for individual campaigns
 
-- What are some other possible tables and/or graphs that we could create?
+- Other possible tables and/or graphs
+1. It may be helpful to create table to show the range of donation amounts for successful campaigns.
+2. It may also be helpful to create another chart showing the length of time the kickstarter campaigns lasted for successful campaigns.
