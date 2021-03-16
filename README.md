@@ -10,7 +10,8 @@ In the assignment, we were asked to perform analysis using Excel formulas to ana
 ## Analysis and Challenges
 
 1. Performing the Analysis
-After adjusting the data supplied (i.e. changing Unix timestamp to date, then retrieving the year from the "Date Ended" coulumn, and separating subcategories from parent categories)  we were able to filter for successful kickstarter campaigns by "Launch Date"b(date created, column S) and "Goals" (funding goals, colun D). 
+After adjusting the data supplied (i.e. changing Unix timestamp to date, then retrieving the year from the "Date Ended" coulumn, and separating subcategories from parent categories)  we were able to filter for successful kickstarter campaigns by "Launch Date"b(date created, column S) and "Goals" (funding goals, colun D). The new Excel file is linked
+<a href="https://github.com/tn64/kickstarter-analysis/blob/af8e8cfd43a39504ecf5075b5405f3f4599cd196/Kickstarter_Challenge.xlsx" target="_blank">here.</a>
 
 
 We then created new Excel sheets for a variety of analyses. The discussion here will focus on the "Theater Outcomes by Launch Date" and "Outcomes Based on Goals" sheets.
