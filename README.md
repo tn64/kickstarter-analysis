@@ -2,6 +2,7 @@
 # Kickstarting with Excel: Kickstarter Theater Project<!--Photo below by Donald Tong from Pexels-->
 <img src="https://github.com/tn64/kickstarter-analysis/blob/main/Resources/pexels-donald-tong-109669-edited.png" width="1000">
 
+
 ## Overview of Project
 
 ### Purpose
@@ -25,27 +26,33 @@ We further analyzed the outcomes based on the fundraising goal for the subcatego
 <img src="https://github.com/tn64/kickstarter-analysis/blob/af8e8cfd43a39504ecf5075b5405f3f4599cd196/Resources/Outcomes_vs_Goals.png">
 
 2. Challenges/Possible Difficulties
-Explain any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+
+The biggest challenge faced was sloppy typing! Other possibile difficulties might be lack of familiarity with Excel functions. Fortunately, there is a significant amount of help via Excel's documentation, other websites, and even YouTube channels that is readily available via Google search.
+
 
 ### Analysis of Outcomes Based on Launch Date
-What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-1. Conclusion 1
-2. Conclusion 2
 
+1. Funding Goals
 
-### Analysis of Outcomes Based on Goals
-What can you conclude about the Outcomes based on Goals?
+The analysis of outcomes based on funding goals (see chart above) shows that campaings with goals over $5,000-$9,999 have a 50-50 chance of success. Given that $5,000 is on the low end of what it costs to produce a play (and was significantly below the scenario in the module), additional forms of fundraising would need to be implemented to reach the goal.
 
-### Challenges and Difficulties Encountered 
+2. Launch Date
+
+The analysis of launch dates by outcome (see chart above) indicates that May and June are the most successful launch months. The also have they not only have highest number of successful campaigns, they also have the highest number of campaign launches.
+
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. 
-2. 
+- Conclusions based on Launch Date
+1. The two months in which the higest number of successful campaigns were launched are May and June.
+2. The two months with the highest number of campaigns being launced are also May and June
 
 - What can you conclude about the Outcomes based on Goals?
+1. Campaigns with a goal lower that $5,000 had a better than 50-50 chance of success.
+2. For a play with a fundraising goal such as envisioned in the module, other forms of fundraising will likely be necessary for the total funding goal to be met.
 
 - What are some limitations of this dataset?
+1. The data set does not include information on marketing plans.
+2. The data set only includes "country" information. Additional, more "regional" data might be helpful for individual campaigns
 
 - What are some other possible tables and/or graphs that we could create?
