@@ -1,15 +1,18 @@
 
-# Kickstarting with Excel<!--Photo below by Donald Tong from Pexels-->
+# Kickstarting with Excel: Kickstarter Theater Project<!--Photo below by Donald Tong from Pexels-->
 <img src="https://github.com/tn64/kickstarter-analysis/blob/main/Resources/pexels-donald-tong-109669-edited.png" width="1000">
 
 ## Overview of Project
 
 ### Purpose
-In the assignment, we were asked to perform analysis using Excel formulas to analyze the data provided for a client who was considering using a Kickstarter campaign to raise funds for the production of an original play. The analysis was intended to discover what made Kickstarter campaigns successful, with specific consideration given to launch date and funding goals. By using Excel formulas we were able to filter and format the data, create pivot tables and charts to make the data more visual and therefore easier to understand, and apply descriptive statistics that were visualized with box plots.
+In the assignment, we were asked to perform analysis using Excel formulas to analyze the data provided for a client who was considering using a Kickstarter campaign to raise funds for the production of an original play. The analysis was intended to analyze data regarding successful Kickstarter campaigns, with specific consideration given to launch date and funding goals. By using Excel formulas we were able to filter and format the data, create pivot tables and charts to make the data more visual and therefore easier to understand.
 
 ## Analysis and Challenges
 
 1. Performing the Analysis
+After adjusting the data supplied (i.e. changing Unix timestamp to date, then retrieving the year from the "Date Ended" coulumn, and separating subcategories from parent categories)  we were able to filter for successful kickstarter campaigns by "Launch Date"b(date created, column S) and "Goals" (funding goals, colun D). The final workbook, < <a href-"https://..." target="_blank">Kickstarter_Challenge.xlsm is linked here.</a>
+
+We then created new Excel sheets for a variety of analyses. The discussion here will focus on the "Theater Outcomes by Launch Date" and "Outcomes Based on Goals" sheets.
 Explain how you performed your analysis using images and links to code. 
 
 2. Challenges/Possible Difficulties
