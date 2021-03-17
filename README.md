@@ -12,11 +12,8 @@ In the assignment, we were asked to perform analysis using Excel formulas to ana
 
 **1. Performing the Analysis**
 
-After adjusting the data supplied (i.e. changing Unix timestamp to date, then retrieving the year from the "Date Ended" column, and separating subcategories from parent categories)  we were able to filter for successful kickstarter campaigns by "Launch Date" (date created, column S) and "Goals" (funding goals, column D). The new Excel file is linked
-<a href="https://github.com/tn64/kickstarter-analysis/blob/af8e8cfd43a39504ecf5075b5405f3f4599cd196/Kickstarter_Challenge.xlsx" target="_blank">here.</a>
+After adjusting the data supplied (i.e. changing Unix timestamp to date, then retrieving the year from the "Date Ended" column, and separating subcategories from parent categories), we were able to filter for successful kickstarter campaigns by "Launch Date" (date created, column S) and "Goals" (funding goals, column D). We then created new Excel sheets for a variety of analyses. Specifically, we created sheets to analyze "Theater Outcomes by Launch Date" and "Outcomes Based on Goals". For "Theater Outcomes by Launch Date" we created a pivot table to fliter the parent category "theater" by the year the Kickstarter campaings were launched (then narrowing to the months in which they were initiated), generating columns for whether the campaign was "successful," "failed," or "canceled" (and generating the total number for each category).
 
-
-We then created new Excel sheets for a variety of analyses. Specifically, we created sheets to analyze "Theater Outcomes by Launch Date" and "Outcomes Based on Goals". For "Theater Outcomes by Launch Date" we created a pivot table to fliter the parent category "theater" by the year the Kickstarter campaings were launched (then narrowing to the months in which they were initiated), generating columns for whether the campaign was "successful," "failed," or "canceled" (and generating the total number for each category).
 We found that the three best months to launch a campaign were May, June, and July (with the highest success in May, followed by June, and then July). You can see the chart generated here:
 
 <img src="https://github.com/tn64/kickstarter-analysis/blob/af8e8cfd43a39504ecf5075b5405f3f4599cd196/Resources/Theater_Outcomes_vs_Launch.png">
