@@ -44,12 +44,10 @@ The analysis of launch dates by outcome (see chart above) indicates that May and
 ## Results
 
 - Conclusions based on Launch Date
-1. The two months in which the higest number of successful campaigns were launched are May and June.
+1. Because the two months in which the higest number of successful campaigns were launched are May and June, Kickstartr campaings for plays should be ready to launch in one of those months, preferable in May.
 2. The two months with the highest number of campaigns being launced are also May and June
 
-- What can you conclude about the Outcomes based on Goals?
-1. Campaigns with a goal lower that $10,000 had a 50% or greater chance of success.
-2. For a play with a fundraising goal such as envisioned in the module, other forms of fundraising will likely be necessary for the total funding goal to be met.
+- Conclusion drawn from Outcomes based on Goals: Campaigns with a goal lower that $10,000 had a 50% or greater chance of success. For campaigns with higher goals, other factors should be addressed such as the marketing plan for the campaign and, perhaps, other forms of fundraising in order to meet the total fundraising goal.
 
 - What are some limitations of this dataset?
 1. The data set does not include information on marketing plans.
